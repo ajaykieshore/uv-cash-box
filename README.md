@@ -5,5 +5,6 @@ UV light
 Lid 
 Wooden box
 Dichroic filter glass
+
 flow chart
 LID (entrance of cash notes and coins)  ->uv light –>dichroic filter glass->cash drawer(virus free notes and coins)
